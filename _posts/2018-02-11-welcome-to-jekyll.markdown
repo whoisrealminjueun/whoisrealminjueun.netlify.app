@@ -1,19 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll Paper!"
-date:   2018-02-11
-last_modified_at: 2018-09-20
-categories: [Jekyll Paper]
+title:  "철학적개소리-(1)"
+date:   2023-06-09
+last_modified_at: 2023-06-09
+categories: [PHILOSOPHY]
 tags: [Getting Start]
 ---
 
-Jekyll Paper is a Jekyll theme, it is designed to helping you to create your own blog by the easiest way. Now, you can learn how to use this blog by this post.
+대상적 세계 안에서 형상적 표현의 나를 자기와 동일시할 때,
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and reload the page to see your changes. You can edit this post on Github or your local repository copy.
+세계와 함께 시공간이 출현하고
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+사적인 자기의 운명이 있는 것처럼 보인다.
 
-Jekyll also offers powerful support for code snippets:
+마음을 벗어나 시공간을 초월한 절대의 상태,
+
+순간 속의 영원에 도달하면 시공간은 존재한적이 없음을 알게 된다. 나 아닌 것이 없는 전부임의 상태에서
+
+오직 만물을 드러내는 보편적 의식의 빛만이 있음을 꺠닫는다.
+
+상대와 절대는 관찰자의 의식 수준에 따라 모습을 달리한다.
+
+어린 시절의 나, 청년기의 나, 노인의 나
+
+그 모든 시간의 변천사 속에서 변하지 않는 ‘나’ 가 있음을 보자.
+
+그러면 시공간은 마음 안에 있지, 보편적 의식에는 존재안한댱~~~~~`~~~!!!
 
 ```c
 #include <stdio.h>
