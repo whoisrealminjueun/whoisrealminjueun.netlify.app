@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "양화사"
+title:  "광화사"
 date:   2023-07-26
 last_modified_at: 2023-07-26
 categories: [문학]
