@@ -3,7 +3,7 @@ layout: post
 title:  "철학적개소리-(3)"
 date:   2023-04-27
 last_modified_at: 2023-04-27
-categories: [PHILOSOPHY]
+categories: ["PHILOSOPHY", "APHORISM"]
 ---
 
 언어를 관장하는 뇌조짓을 때어낸다면 상징계 상상계가 사라져서
