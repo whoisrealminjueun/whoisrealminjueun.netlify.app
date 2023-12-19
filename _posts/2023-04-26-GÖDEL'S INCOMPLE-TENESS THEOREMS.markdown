@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "GÖDEL'S INCOMPLE-TENESS THEOREMS"
-date:   2023-04-27
-last_modified_at: 2023-04-27
+date:   2023-04-26
+last_modified_at: 2023-04-26
 categories: [PHILOSOPHY]
 ---
 
