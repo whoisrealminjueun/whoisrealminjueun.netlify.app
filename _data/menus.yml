@@ -1,11 +1,14 @@
-- default: menu_index
-  url:   ""
+- title: "Blog"
+  url: "/"
+  
+- title: "Categories"
+  url: "/categories"
 
-- default: menu_category
-  url:   "categories"
-
-- default: menu_about
-  url:   "about"
+- title: "Projects"
+  url: "/projects"
+  
+- title: "About"
+  url: "/about"
 
 - title: "instagram"
   absoluteUrl: true
