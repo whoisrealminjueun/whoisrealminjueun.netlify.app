@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "철학적개소리-(2)"
-date:   2023-06-25
-last_modified_at: 2023-06-25
+date:   2023-04-25
+last_modified_at: 2023-04-25
 categories: [APHORISM]
 ---
 
