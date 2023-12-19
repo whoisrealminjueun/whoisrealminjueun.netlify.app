@@ -3,7 +3,7 @@ layout: post
 title:  "THERE WILL BE BLOOD"
 date:   2023-07-07
 last_modified_at: 2023-07-07
-categories: [영화]
+categories: ["영화", "음악"]
 ---
 
 사랑해요, PTA
