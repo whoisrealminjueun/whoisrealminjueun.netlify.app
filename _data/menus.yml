@@ -3,12 +3,9 @@
   
 - title: "Categories"
   url: "/categories"
-
-- title: "Projects"
-  url: "/projects"
   
 - title: "About"
-  url: "/about"
+  url: "/about/"
 
 - title: "instagram"
   absoluteUrl: true
