@@ -3,7 +3,7 @@ layout: post
 title:  "효모."
 date:   2023-04-27
 last_modified_at: 2023-04-27
-categories: [APHORISM]
+categories: ["APHORISM", "문학"]
 ---
 
 효모
