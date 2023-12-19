@@ -3,7 +3,7 @@ layout: post
 title:  칸트와결혼.
 date:   2023-05-03
 last_modified_at: 2023-05-03
-categories: [PHILOSOPHY]
+categories: ["PHILOSOPHY", "APHORISM"]
 ---
 
 칸트는 어느 한 여성에게 청혼을 받은적이 있습니다.
