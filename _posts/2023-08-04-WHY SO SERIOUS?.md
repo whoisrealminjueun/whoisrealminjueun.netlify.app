@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "WHY SO SERIOUS?"
-date:   2023-08-15
+date:   2023-08-1
 last_modified_at: 2023-08-15
 categories: [문학]
 ---
