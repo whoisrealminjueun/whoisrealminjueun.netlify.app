@@ -18,7 +18,7 @@ name: whoisrealminjueun?
 description: >- # this means to ignore newlines until "baseurl:"
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "whoisrealminjueun.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "whoisrealminjueun.netlify.app" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
@@ -37,8 +37,8 @@ analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 paginate: 15
 paginate_path: "/page:num/"
 
-comments: false  # enable comments
-disqus:          # disqus account
+comments: true  # enable comments
+disqus: whoisrealminjueun         # disqus account
 
 mathjax: true # Mathematics
 mermaid: true # Diagrams
