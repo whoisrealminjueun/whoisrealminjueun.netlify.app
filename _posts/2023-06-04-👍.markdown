@@ -5,5 +5,4 @@ date:   2023-06-04
 last_modified_at: 2023-06-04
 categories: [daytoday!]
 ---
-
-- ![Image Alt 👍](assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg)
+<img data-action="zoom" src='{{ "assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg" | relative_url }}' alt='absolute'>
