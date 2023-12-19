@@ -71,14 +71,6 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
 
-<script src="https://utteranc.es/client.js"
-        repo="/whoisrealminjueun/whoisrealminjueun.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
