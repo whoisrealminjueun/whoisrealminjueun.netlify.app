@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "카카오톡오픈채팅토론"
-date:   2023-08-26
-last_modified_at: 2023-08-26
+date:   2023-08-14
+last_modified_at: 2023-08-14
 categories: [daytoday!]
 ---
 
