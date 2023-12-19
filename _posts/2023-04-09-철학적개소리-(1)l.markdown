@@ -3,7 +3,7 @@ layout: post
 title:  "철학적개소리-(1)"
 date:   2023-04-09
 last_modified_at: 2023-04-09
-categories: ["PHILOSOPHY, APHORISM"]
+categories: ["PHILOSOPHY", "APHORISM"]
 ---
 
 대상적 세계 안에서 형상적 표현의 나를 자기와 동일시할 때,
