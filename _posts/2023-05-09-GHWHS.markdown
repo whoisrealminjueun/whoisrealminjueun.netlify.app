@@ -3,7 +3,7 @@ layout: post
 title:  "GHWHS"
 date:   2023-05-09
 last_modified_at: 2023-05-09
-categories: ["문학", "PHILOSOPHY"]
+categories: ["문학"]
 ---
 
 우아하게 나뭇잎에 매달린 이도,<br/>
