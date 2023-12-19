@@ -34,7 +34,7 @@ language: en
 
 analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
-paginate: 15
+paginate: 20
 paginate_path: "/page:num/"
 
 comments: false # enable comments
