@@ -50,6 +50,10 @@ sass:
   style: expanded # compressed, compact, expanded or compressed
 
 # Category settings
+category archive:
+  type: liquid
+  path: /categories
+  
 jekyll-archives:
   enabled: 
     - categories
@@ -57,7 +61,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: /category/:name/
-
+    
 # Build settings
 markdown: kramdown
 plugins:
