@@ -2,7 +2,7 @@
 layout: post
 title:  "김지하_아주까리 신풍 미시마 유키오에 대하여"
 date:   2023-07-12
-last_modified_at: 2023-07-12
+last_modified_at: 2023-07-1
 categories: [문학]
 ---
 
