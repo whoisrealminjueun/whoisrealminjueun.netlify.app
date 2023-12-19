@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "example.com" # the domain name for your site, e.g. example.com
+domain: "whoisrealminjueun.netlify.app" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
@@ -34,7 +34,7 @@ language: en
 
 analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
-paginate: 25
+paginate: 15
 paginate_path: "/page:num/"
 
 comments: enable  # enable comments
