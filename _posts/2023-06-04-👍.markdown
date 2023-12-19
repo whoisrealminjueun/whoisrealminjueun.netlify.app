@@ -5,7 +5,6 @@ date:   2023-06-04
 last_modified_at: 2023-06-04
 categories: [daytoday!]
 ---
-<img data-action="zoom" src='/assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg | relative_url }}' alt='absolute'>
 
 <img data-action="zoom" src='{{ "whoisrealminjueun.github.io/assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg" | relative_url }}' alt='absolute'>
 <!-- result : whoisrealminjueun.github.io/assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg -->
