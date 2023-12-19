@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  칸트와결혼."
+title:  칸트와결혼.
 date:   2023-05-03
 last_modified_at: 2023-05-03
 categories: [PHILOSOPHY]
