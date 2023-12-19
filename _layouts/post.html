@@ -21,13 +21,6 @@ layout: default
       {% for category in page.categories %}
       <a href="{{ site.baseurl }}/category/{{ category | slugify }}" class="post-category">{{ category }}</a>
       {% endfor %}
-    </div>
-    <div class="post-tags">
-      <span>{{ site.data.lang[site.language].post_tags }}</span>
-      {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
-      {% endfor %}
-    </div>
     <div class="post-tools">
       {% if page.next %}
       <div>
@@ -44,11 +37,4 @@ layout: default
       {% include comments.html %}
     {% endif %}
   </div>
-  <script src="https://utteranc.es/client.js"
-        repo="/whoisrealminjueun/whoisrealminjueun.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
 </article>
