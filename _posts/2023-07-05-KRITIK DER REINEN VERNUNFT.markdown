@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "접경"
-date:   2023-07-01
-last_modified_at: 2023-07-01
+date:   2023-07-05
+last_modified_at: 2023-07-05
 categories: [PHILOSOPHY]
 ---
 
