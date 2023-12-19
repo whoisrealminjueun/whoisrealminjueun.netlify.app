@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "철학적개소리-(1)"
-date:   2023-06-09
-last_modified_at: 2023-06-09
+title:  "GÖDEL'S INCOMPLE-TENESS THEOREMS"
+date:   2023-04-27
+last_modified_at: 2023-04-27
 categories: [PHILOSOPHY]
 ---
 
