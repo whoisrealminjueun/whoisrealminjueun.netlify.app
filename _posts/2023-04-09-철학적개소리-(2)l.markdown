@@ -3,7 +3,7 @@ layout: post
 title:  "철학적개소리-(2)"
 date:   2023-04-25
 last_modified_at: 2023-04-25
-categories: [APHORISM]
+categories: ["PHILOSOPHY", "APHORISM", "daytoday!"]
 ---
 
 ‘나’대신 ‘저’를 쓰는건 굴욕적인거가타요.
