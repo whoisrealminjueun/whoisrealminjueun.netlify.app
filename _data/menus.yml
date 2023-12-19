@@ -1,11 +1,14 @@
 - title: "Blog"
-  url: "/"
+  absoluteUrl: true
+  url: "https://whoisrealminjueun.netlify.app/"
   
 - title: "Categories"
-  url: "/categories"
+  absoluteUrl: true
+  url: "https://whoisrealminjueun.netlify.app/categories"
   
 - title: "About"
-  url: "/about/"
+  absoluteUrl: true
+  url: "https://whoisrealminjueun.netlify.app/about/"
 
 - title: "instagram"
   absoluteUrl: true
