@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "접경"
+title:  "KRITIK DER REINEN VERNUNFT"
 date:   2023-07-05
 last_modified_at: 2023-07-05
 categories: [PHILOSOPHY]
