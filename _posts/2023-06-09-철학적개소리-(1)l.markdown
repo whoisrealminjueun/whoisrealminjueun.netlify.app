@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2023-06-09"
+title:  "철학적개소리-(1)"
 date:   2023-06-09
 last_modified_at: 2023-06-09
 categories: [PHILOSOPHY]
