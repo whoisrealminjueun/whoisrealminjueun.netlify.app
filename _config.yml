@@ -37,7 +37,7 @@ analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 paginate: 15
 paginate_path: "/page:num/"
 
-comments: enable  # enable comments
+comments: false  # enable comments
 disqus:          # disqus account
 
 mathjax: true # Mathematics
@@ -57,7 +57,6 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: /category/:name/
-    tag: /tag/:name/
 
 # Build settings
 markdown: kramdown
