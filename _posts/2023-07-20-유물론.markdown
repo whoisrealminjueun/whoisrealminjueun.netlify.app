@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "유물론"
-date:   22023-07-20
+date:   2023-07-20
 last_modified_at: 2023-07-20
 categories: [정치]
 ---
