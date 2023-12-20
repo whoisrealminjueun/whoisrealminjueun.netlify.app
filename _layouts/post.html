@@ -15,31 +15,31 @@ layout: default
   <div class="post-info">
     <div class="post-date">
       {{ site.data.lang[site.language].post_write_date }}{{ page.date | date: "%Y-%m-%d" }}{% if page.last_modified_at %}, {{ site.data.lang[site.language].post_update_date }}{{ page.last_modified_at | date: "%Y-%m-%d" }}{% endif %}.
-  </div>
+    </div>
     <div class="post-categories">
-    <span>{{ site.data.lang[site.language].post_categories }}</span>
-    {% for category in page.categories %}
-    <a href="{{ site.baseurl }}/category/{{ category | slugify }}" class="post-category" onclick="redirectToCategories()"> {{ category }}</a>
-    {% endfor %}
-  </div>
-
-  <script>
-    function redirectToCategories() {
-      window.location.href = "https://whoisrealminjueun.netlify.app/categories/";
-    }
-  </script>
-
+      <span>{{ site.data.lang[site.language].post_categories }}</span>
+      {% for category in page.categories %}
+        <a href="{{ site.baseurl }}/category/{{ category | slugify }}" class="post-category" onclick="redirectToCategories()"> {{ category }}</a>
+      {% endfor %}
+    </div>
+    <script>
+      function redirectToCategories() {
+        window.location.href = "https://whoisrealminjueun.netlify.app/categories/";
+      }
+    </script>
     <div class="post-tools">
-      {% if page.next %}
-      <div>
-        <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+      <div class="post-navigation">
+        {% if page.previous %}
+          <div class="post-previous">
+            <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+          </div>
+        {% endif %}
+        {% if page.next %}
+          <div class="post-next">
+            <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+          </div>
+        {% endif %}
       </div>
-      {% endif %}
-      {% if page.previous %}
-      <div>
-        <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
-      </div>
-      {% endif %}
     </div>
     {% if site.comments %}
       {% include comments.html %}
