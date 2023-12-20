@@ -29,8 +29,8 @@ layout: default
   .post-next {
     order: 2; /* Order next link to be second */
   }
-  
-   .post-previous,
+
+  .post-previous,
   .post-next {
     margin-right: 10rem; /* 오른쪽 마진을 10rem으로 설정 */
     white-space: nowrap; /* 글자가 줄바꿈되지 않도록 설정 */
@@ -47,9 +47,17 @@ layout: default
       width: 30rem;
     }
   }
-</style>
 
+  /* Additional styles for post info and separator */
+  .post-info {
+    margin-top: 20px; /* Add margin at the top of post info */
+  }
 
+  .post-separator {
+    border-top: 1px solid #ddd; /* Border color for the separator */
+    margin-top: 20px; /* Margin at the top of the separator */
+    margin-bottom: 20px; /* Margin at the bottom of the separator */
+  }
 </style>
 
 <article class="container-post">
@@ -77,22 +85,23 @@ layout: default
         window.location.href = "https://whoisrealminjueun.netlify.app/categories/";
       }
     </script>
-    <div class="post-tools">
-      <div class="post-navigation">
-        {% if page.previous %}
-          <div class="post-previous">
-            <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
-          </div>
-        {% endif %}
-        {% if page.next %}
-          <div class="post-next">
-            <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
-          </div>
-        {% endif %}
-      </div>
-    </div>
-    {% if site.comments %}
-      {% include comments.html %}
-    {% endif %}
   </div>
+  <div class="post-separator"></div> <!-- Separator -->
+  <div class="post-tools">
+    <div class="post-navigation">
+      {% if page.previous %}
+        <div class="post-previous">
+          <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+        </div>
+      {% endif %}
+      {% if page.next %}
+        <div class="post-next">
+          <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  {% if site.comments %}
+    {% include comments.html %}
+  {% endif %}
 </article>
