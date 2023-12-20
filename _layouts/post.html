@@ -30,13 +30,22 @@ layout: default
     order: 2; /* Order next link to be second */
   }
   
-  .post-previous,
+   .post-previous,
   .post-next {
-    margin: 0 10rem 0 0; /* 오른쪽 여백을 10rem으로 설정 */
+    margin-right: 10rem; /* 오른쪽 마진을 10rem으로 설정 */
     white-space: nowrap; /* 글자가 줄바꿈되지 않도록 설정 */
     overflow: hidden; /* 넘치는 부분은 감추기 */
     text-overflow: ellipsis; /* 넘치는 부분은 '...'로 표시 */
-    width: 30rem; /* 박스 크기를 조절하여 글자가 줄바꿈되지 않도록 함 */
+    width: 30rem;
+  }
+
+  @media screen and (max-width: 767px) {
+    /* 화면 너비가 767px 이하인 경우 모바일 스타일 적용 */
+    .post-previous,
+    .post-next {
+      margin-right: 8rem; /* 모바일에서는 오른쪽 마진을 8rem으로 설정 */
+      width: 20rem;
+    }
   }
 </style>
 
