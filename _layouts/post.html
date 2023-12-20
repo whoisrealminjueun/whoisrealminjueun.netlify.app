@@ -2,6 +2,35 @@
 layout: default
 ---
 
+<style>
+  .container-post {
+    /* Add other styles as needed for the post container */
+  }
+
+  .post-categories {
+    margin-bottom: 20px; /* Adjust the margin as needed */
+  }
+
+  .post-navigation {
+    display: flex;
+    justify-content: center; /* Center the navigation items horizontally */
+    margin-top: 20px; /* Add margin at the top as needed */
+  }
+
+  .post-previous,
+  .post-next {
+    margin: 0 10px; /* Adjust the margin between previous and next links */
+  }
+
+  .post-previous {
+    order: 1; /* Order previous link to be first */
+  }
+
+  .post-next {
+    order: 2; /* Order next link to be second */
+  }
+</style>
+
 <article class="container-post">
   <div class="post-title">
     <h1>{{ page.title }}</h1>
