@@ -9,6 +9,7 @@ layout: default
 
   .post-categories {
     margin-bottom: 20px; /* Adjust the margin as needed */
+    color: #555; /* Set text color to a lighter gray */
   }
 
   .post-navigation {
@@ -20,6 +21,36 @@ layout: default
   .post-previous,
   .post-next {
     margin: 0 10px; /* Adjust the margin between previous and next links */
+    color: #555; /* Set text color to a lighter gray */
+    position: relative;
+  }
+
+  .post-previous a,
+  .post-next a {
+    color: #555; /* Set link color to a lighter gray */
+    text-decoration: none; /* Remove underline from links */
+  }
+
+  .post-previous::before,
+  .post-next::before {
+    content: '\2190'; /* Unicode arrow character */
+    font-size: 1.5em; /* Adjust the arrow size as needed */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .post-previous::before {
+    left: -20px; /* Adjust the arrow position for the previous link */
+  }
+
+  .post-next::before {
+    right: -20px; /* Adjust the arrow position for the next link */
+  }
+
+  .post-previous:hover::before,
+  .post-next:hover::before {
+    color: #333; /* Set arrow color to a darker gray on hover */
   }
 
   .post-previous {
@@ -30,27 +61,9 @@ layout: default
     order: 2; /* Order next link to be second */
   }
 
-  .post-previous,
-  .post-next {
-    margin-right: 10rem; /* 오른쪽 마진을 10rem으로 설정 */
-    white-space: nowrap; /* 글자가 줄바꿈되지 않도록 설정 */
-    overflow: hidden; /* 넘치는 부분은 감추기 */
-    text-overflow: ellipsis; /* 넘치는 부분은 '...'로 표시 */
-    width: 40rem;
-  }
-
-  @media screen and (max-width: 767px) {
-    /* 화면 너비가 767px 이하인 경우 모바일 스타일 적용 */
-    .post-previous,
-    .post-next {
-      margin-right: 5rem; /* 모바일에서는 오른쪽 마진을 8rem으로 설정 */
-      width: 30rem;
-    }
-  }
-
-  /* Additional styles for post info and separator */
+  .post-categories,
   .post-info {
-    margin-top: 20px; /* Add margin at the top of post info */
+    color: #555; /* Set text color to a lighter gray */
   }
 
   .post-separator {
@@ -61,6 +74,7 @@ layout: default
 
   .written-on {
     margin-top: 10px; /* Adjust the margin as needed */
+    color: #555; /* Set text color to a lighter gray */
   }
 </style>
 
