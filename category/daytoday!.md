@@ -1,7 +1,41 @@
 ---
-
-layout: category
-
+layout: default
 title: daytoday!
-
+permalink: /categories/daytoday!/
+category: daytoday!
 ---
+
+<article class="container-page">
+  <h1 class="page-title">{{ site.data.lang[site.language].categories_title }}</h1>
+  
+  <ul class="categories-list">
+    {% if page.category %}
+      {% assign selected_category = page.category %}
+      <li id="{{ selected_category }}">{{ selected_category }}
+        {% assign sorted_posts = site.posts | sort: 'date' %}
+        {% for post in sorted_posts %}
+          {% if post.categories contains selected_category %}
+            <div class="posts-list-item">
+              <span class="posts-list-item-name float-left"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+              <span class="posts-list-item-date float-right">{{ post.date | date: "%Y-%m-%d" }}</span>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </li>
+    {% else %}
+      {% for category in site.categories %}
+        <li id="{{ category | first }}">{{ category | first }}
+          {% assign sorted_posts = site.posts | sort: 'date' %}
+          {% for post in sorted_posts %}
+            {% if post.categories contains category[0] %}
+              <div class="posts-list-item">
+                <span class="posts-list-item-name float-left"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+                <span class="posts-list-item-date float-right">{{ post.date | date: "%Y-%m-%d" }}</span>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+</article>
