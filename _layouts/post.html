@@ -93,92 +93,11 @@ layout: default
     display: none;
   }
 
-  ---
-layout: default
----
-
-<style>
-  .container-post {
-    /* Add other styles as needed for the post container */
-  }
-
-  .post-categories {
-    margin-bottom: 20px; /* Adjust the margin as needed */
-    color: #555; /* Set text color to a lighter gray */
-  }
-
-  .post-navigation {
-    display: flex;
-    justify-content: center; /* Center the navigation items horizontally */
-    margin-top: 20px; /* Add margin at the top as needed */
-  }
-
-  .post-previous,
-  .post-next {
-    margin: 0 10px; /* Adjust the margin between previous and next links */
-    color: #555; /* Set text color to a lighter gray */
-    position: relative;
-  }
-
-  .post-previous a,
-  .post-next a {
-    color: #555; /* Set link color to a lighter gray */
-    text-decoration: none; /* Remove underline from links */
-  }
-
-  .post-previous::before,
-  .post-next::before {
-    content: '\2190'; /* Unicode arrow character */
-    font-size: 1.5em; /* Adjust the arrow size as needed */
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-
-  .post-previous::before {
-    left: -20px; /* Adjust the arrow position for the previous link */
-  }
-
-  .post-next::before {
-    right: -20px; /* Adjust the arrow position for the next link */
-  }
-
-  .post-previous:hover::before,
-  .post-next:hover::before {
-    color: #333; /* Set arrow color to a darker gray on hover */
-  }
-
-  .post-previous {
-    order: 1; /* Order previous link to be first */
-  }
-
-  .post-next {
-    order: 2; /* Order next link to be second */
-  }
-
-  .post-categories,
-  .post-info {
-    color: #555; /* Set text color to a lighter gray */
-  }
-
-  .post-separator {
-    border-top: 1px solid #ddd; /* Border color for the separator */
-    margin-top: 20px; /* Margin at the top of the separator */
-    margin-bottom: 20px; /* Margin at the bottom of the separator */
-  }
-
-  .written-on {
-    margin-top: 10px; /* Adjust the margin as needed */
-    color: #555; /* Set text color to a lighter gray */
-  }
 </style>
 
 <article class="container-post">
   <div class="post-title">
     <h1>{{ page.title }}</h1>
-  </div>
-  <div class="post-author">
-    <span>{{ site.name }}</span>
   </div>
   <div class="written-on">
     <p>written on</p>
