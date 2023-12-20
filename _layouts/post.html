@@ -4,80 +4,44 @@ layout: default
 
 <style>
 
+<style>
   .container-post {
     /* Add other styles as needed for the post container */
     margin-top: 20px; /* Adjust the margin as needed */
   }
 
+  .post-title {
+    text-align: left; /* Align post title to the left */
+  }
+
+  .post-content {
+    text-align: left; /* Align post content to the left */
+  }
+
+  .post-info {
+    color: #555; /* Set text color to a lighter gray */
+    text-align: left; /* Align post info to the left */
+    margin-top: 10px; /* Adjust the margin as needed */
+  }
+
+  .post-date {
+    margin-bottom: 10px; /* Adjust the margin as needed */
+  }
+
   .post-categories {
     margin-bottom: 20px; /* Adjust the margin as needed */
     color: #555; /* Set text color to a lighter gray */
+    text-align: left; /* Align categories to the left */
   }
 
-  .post-navigation {
-    display: flex;
-    justify-content: center; /* Center the navigation items horizontally */
-    margin-top: 20px; /* Add margin at the top as needed */
-  }
-
-  .post-previous,
-  .post-next {
-    margin: 0 10px 20px; /* Adjust the margin between previous and next links, and add margin at the bottom */
-    color: #555; /* Set text color to a lighter gray */
-    position: relative;
-  }
-
-  .post-previous a,
-  .post-next a {
-    color: #555; /* Set link color to a lighter gray */
-    text-decoration: none; /* Remove underline from links */
-  }
-
-  .post-previous::before,
-  .post-next::before {
-    font-size: 1.5em; /* Adjust the arrow size as needed */
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-
-  .post-previous::before {
-    content: '\2190'; /* Unicode left arrow character for previous link */
-    left: -20px; /* Adjust the arrow position for the previous link */
-  }
-
-  .post-next::before {
-    content: '\2192'; /* Unicode right arrow character for next link */
-    right: -20px; /* Adjust the arrow position for the next link */
-  }
-
-  .post-previous:hover::before,
-  .post-next:hover::before {
-    color: #333; /* Set arrow color to a darker gray on hover */
-  }
-
-  .post-previous {
-    order: 1; /* Order previous link to be first */
-  }
-
-  .post-next {
-    order: 2; /* Order next link to be second */
-  }
-
-  .post-categories,
-  .post-info {
-    color: #555; /* Set text color to a lighter gray */
+  .post-category {
+    margin-right: 10px; /* Adjust the margin between categories as needed */
   }
 
   .post-separator {
     border-top: 1px solid #ddd; /* Border color for the separator */
     margin-top: 20px; /* Margin at the top of the separator */
     margin-bottom: 20px; /* Margin at the bottom of the separator */
-  }
-
-  .written-on {
-    margin-top: 10px; /* Adjust the margin as needed */
-    color: #555; /* Set text color to a lighter gray */
   }
 
   .scroll-to-top {
@@ -92,6 +56,8 @@ layout: default
     cursor: pointer;
     display: none;
   }
+</style>
+
 </style>
 
 
