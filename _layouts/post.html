@@ -92,10 +92,135 @@ layout: default
     cursor: pointer;
     display: none;
   }
+
+  ---
+layout: default
+---
+
+<style>
+  .container-post {
+    /* Add other styles as needed for the post container */
+  }
+
+  .post-categories {
+    margin-bottom: 20px; /* Adjust the margin as needed */
+    color: #555; /* Set text color to a lighter gray */
+  }
+
+  .post-navigation {
+    display: flex;
+    justify-content: center; /* Center the navigation items horizontally */
+    margin-top: 20px; /* Add margin at the top as needed */
+  }
+
+  .post-previous,
+  .post-next {
+    margin: 0 10px; /* Adjust the margin between previous and next links */
+    color: #555; /* Set text color to a lighter gray */
+    position: relative;
+  }
+
+  .post-previous a,
+  .post-next a {
+    color: #555; /* Set link color to a lighter gray */
+    text-decoration: none; /* Remove underline from links */
+  }
+
+  .post-previous::before,
+  .post-next::before {
+    content: '\2190'; /* Unicode arrow character */
+    font-size: 1.5em; /* Adjust the arrow size as needed */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .post-previous::before {
+    left: -20px; /* Adjust the arrow position for the previous link */
+  }
+
+  .post-next::before {
+    right: -20px; /* Adjust the arrow position for the next link */
+  }
+
+  .post-previous:hover::before,
+  .post-next:hover::before {
+    color: #333; /* Set arrow color to a darker gray on hover */
+  }
+
+  .post-previous {
+    order: 1; /* Order previous link to be first */
+  }
+
+  .post-next {
+    order: 2; /* Order next link to be second */
+  }
+
+  .post-categories,
+  .post-info {
+    color: #555; /* Set text color to a lighter gray */
+  }
+
+  .post-separator {
+    border-top: 1px solid #ddd; /* Border color for the separator */
+    margin-top: 20px; /* Margin at the top of the separator */
+    margin-bottom: 20px; /* Margin at the bottom of the separator */
+  }
+
+  .written-on {
+    margin-top: 10px; /* Adjust the margin as needed */
+    color: #555; /* Set text color to a lighter gray */
+  }
 </style>
 
 <article class="container-post">
-  <!-- Existing content -->
+  <div class="post-title">
+    <h1>{{ page.title }}</h1>
+  </div>
+  <div class="post-author">
+    <span>{{ site.name }}</span>
+  </div>
+  <div class="written-on">
+    <p>written on</p>
+    <hr>
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+  <div class="post-info">
+    <div class="post-date">
+      {{ site.data.lang[site.language].post_write_date }}{{ page.date | date: "%Y-%m-%d" }}{% if page.last_modified_at %}, {{ site.data.lang[site.language].post_update_date }}{{ page.last_modified_at | date: "%Y-%m-%d" }}{% endif %}.
+    </div>
+    <div class="post-categories">
+      <span>{{ site.data.lang[site.language].post_categories }}</span>
+      {% for category in page.categories %}
+        <a href="{{ site.baseurl }}/category/{{ category | slugify }}" class="post-category" onclick="redirectToCategories()"> {{ category }}</a>
+      {% endfor %}
+    </div>
+    <script>
+      function redirectToCategories() {
+        window.location.href = "https://whoisrealminjueun.netlify.app/categories/";
+      }
+    </script>
+  </div>
+  <div class="post-separator"></div> <!-- Separator -->
+  <div class="post-tools">
+    <div class="post-navigation">
+      {% if page.previous %}
+        <div class="post-previous">
+          <span>{{ site.data.lang[site.language].post_previous }}</span><a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+        </div>
+      {% endif %}
+      {% if page.next %}
+        <div class="post-next">
+          <span>{{ site.data.lang[site.language].post_next }}</span><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  {% if site.comments %}
+    {% include comments.html %}
+  {% endif %}
 
   <!-- Scroll to Top Button -->
   <button class="scroll-to-top" onclick="scrollToTop()">↑</button>
