@@ -33,9 +33,10 @@ permalink: /about
   를 방문하라.<br>
   <br>
   <br>
-
  {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxDSSBGwpNfTqSQsZV2RG9XXdzM-8WMKE" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
-
-
+<br>
+<br>
+<br>
+<br>
