@@ -6,14 +6,14 @@ permalink: /about
 
 <style>
   .header-info h6 {
-    font-size: 8px; 
+    font-size: 6px; 
     white-space: nowrap;
   }
 
   
   @media only screen and (max-width: 760px) {
     .header-info h6 {
-      font-size: 6px; 
+      font-size: 4px; 
     }
 
   @media only screen and (max-width: 320px) {
