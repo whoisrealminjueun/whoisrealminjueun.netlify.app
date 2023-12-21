@@ -13,14 +13,8 @@ permalink: /about
   
   @media only screen and (max-width: 760px) {
     .header-info h6 {
-      font-size: 4px; 
+      font-size: 1px; 
     }
-
-  @media only screen and (max-width: 320px) {
-    .header-info h6 {
-      font-size: 2px;
-    }
-  }
 </style>
 <div class=
 
