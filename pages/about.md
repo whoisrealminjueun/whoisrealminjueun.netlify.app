@@ -18,7 +18,7 @@ permalink: /about
 
   @media only screen and (max-width: 320px) {
     .header-info h6 {
-      font-size: 4px;
+      font-size: 2px;
     }
   }
 </style>
