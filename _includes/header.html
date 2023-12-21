@@ -1,14 +1,19 @@
 <style>
   .header-info h6 {
-    font-size: 8px; /* 기본 크기 설정 */
-    white-space: nowrap; /* 줄바꿈 제거 */
-    cursor: pointer; /* 커서를 포인터로 변경하여 클릭 가능한 것처럼 보이도록 함 */
+    font-size: 8px; 
+    white-space: nowrap;
+    cursor: pointer; 
   }
 
-  @media only screen and (max-width: 320px) {
-    /* 모바일 화면 크기에 따른 스타일 조절 */
+  
+  @media only screen and (max-width: 760px) {
     .header-info h6 {
-      font-size: 4px; /* 모바일에서 더 작은 크기로 조절 */
+      font-size: 6px; 
+    }
+
+  @media only screen and (max-width: 320px) {
+    .header-info h6 {
+      font-size: 4px;
     }
   }
 </style>
