@@ -1,9 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /about
----
-
 <style>
   .header-info h6 {
     font-size: 8px; 
@@ -34,8 +28,49 @@ permalink: /about
   <a href="https://whoisrealminjueun-old.netlify.app/" style="color: blue; text-decoration: underline;">예전 웹사이트(클릭)</a>
   를 방문하라
 
-  <h6>                                                                                            
-.   ( ๑╹ω╹)<br>
-＿(__つ/￣￣￣/＿<br>
+  <h6 style="display:inline">           
+S7n,;.,.:.;,;:i,i,;,i,v,v,;,7.;,7.7.;,;,;,;,;,;,;,i,i,i,v,v,o:;,v,;,7.v:J:o<br>
+3n;J,: . . , ,.:.:.:.:., : : , , , , , , , ,., ,.:.:.:.:.:.:.:.:., ,.7,v:n7<br>
+MnG212S;i.:.:.:.7,7.7.;,;,7,;,;.7.7.;,7.;.7,;.;,;,;.;,;,;,v,;.7.7.;,n;UJbSg<br>
+9O9MUZxGJS:;.: :.:.:.:.7.;.7.;.7.7.;,;.;.7.7.7,;,7.7.;,;,;.7.:.;,JvmnO9QCR9<br>
+G2gmgmgmMUGJ2:7., :.:.:.:.:.7.7.7.;,;.;,;.7.7.;.7.7.7.;,7.:.7.J;Snb9QCE1ECM<br>
+ix3b9gSRmgCE1MJ2,;.: :.: ,.:.7.7.7,;,;.7.7.7.:.7.:.7.7.:.:.;:9JOmE1BbBOECR9<br>
+J,3;SJ1xQCBGE1EmgJ2,:.:.7.:.:.7.7,;.;,7.7.7.:.7.,.7.7.:.:,2nGmEbBbBGEmM9ZUC<br>
+:;:o:J73;CxM1BbBMB1Moi,i:;,7.7.7,;,;,;,;.;.7.:.:.:.:.:.ioRCBGBMBOEmZU1JmoS;<br>
+o.i:i,o:o:o7UJbCBbB1BmS;2:J,v,7.7,;,;,;.7,;.7.7.7.o:J;1SBGEbBOR9OJmoSvx;3;J<br>
+:;:J:o:J:J:J:J72ibSE1EOgn2vn;J,;.;,;.v,;.;,;,;,i:O3m9EZBbBOR2moSv9;2;x;2;x:<br>
+3,J:n7J:J7n7n;n7n7UJOxMSg9Go27J:v,;.7.;,i,o,v,JvG1QCBGEmM3mv2;x;x;U;2;2;x;J<br>
+;i7n:n7n:J:J7n;3;x;2;Sim3CnCo9;3:i,v,;,o:J:J:3;OSRmM9bJmo9;x;x;x;3;373;2;x:<br>
+J,J:J:J7J:J:n7n73;x;UvmomomJmJ9;n73;J:n7J:J72JC2G21JmJSiSvU;x;37n7n7n73;2;n<br>
+;;,;.:.:.,.:.;,i7n73;9imJCJCJCoS;2;J:J7372;9J1xG3OnComoUvU;n:i,;.7.7.;,;,i,<br>
+BmRmgUCi2:;., . . ,.;:nvSomnCJmoU;x;2vU;Uv9J13O31nmJmv3,7.. . ,.v:Uim2bSQmg<br>
+MBgBgBQBgBgBgBGZiJ,, . :.ovmJ1nmi9;U;9i9vSJ13b21JmiJ., . ;7C9EgBgBgBgBQBgBg<br>
+mvO2ZSROBOECR1EgBgBgB1bJx7o;mn1Jmvx;x;x;ximnGxG397J793EgBgBgBgB1QmMZBOECQmG<br>
+.,,i:J73;SoU;n:1gBgBgBgBgBgQi9Jmix7J:i:J7Uo1UbnS2RgBQBgBQBgBQBGmJCJmoSiU;2,<br>
+; 7.7.7.7,;,o:i,mMBgBgBQBgBbB72;n:v.:.:.;:UoOixgB2mgBgBgBQBMEoJ7J:o,v,;,i:v<br>
+:;:J:v.7.:.:.,., ,,3;SJCJm7o7i,v,;.: , :.i73;o;3,v.;:v:J,;.: ,.;,;,i:3;9vS7<br>
+7 ;,i:xiSiU;J,v,;.7.:.;,i:n:;,7.;.7., , 7,o:o,o,o;U;n:o:J:J73;SJ13GxGnmoU;v<br>
+   . . ,.o;G9QmQmgmgSgSZ2m;i.7.7.;.: , ,.;:o,;,v:2vC3ZSgmQmQmg9b21iU7J:i,;.<br>
+7 , , . . . :,o72;2;37J,;.7.:.7.7.:., , 7,o:v,;.7.7,;,i:J:J:J:i,;.7.7.:.:.,<br>
+:7,;,;.:., . . , ,.:., ,.:.7.;,;.7.: , :.;:o,i,;,7.7.:.:.:.:.,.:.:.:.:.:.: <br>
+x,J:v,;,;., , , , ,.:.7.7,;,;,;.;.:., , :,i:J:J:;,7.7.:., : , ,., :.:.:.:.,<br>
+39oS;27J:o,: , , ,., :.;,;,;,;,7,;.: , :.v:n7J7J,;,7.:.:.:.,.:.,., ,.:.:.: <br>
+v,C3miSi9;J,7.:.,.:.:.7.;,;,o:i,i,7., ,.v:n;37J:;.7.7.:.:.:.:.:.:.:.,.:.:.,<br>
+ ..Jo9iS;2:J,;.7., ,.:.7,v:xiU;J:v.:.:.;,J7xvU;2:;.7.:.:.:.:.:.:.:.:.:.:.7 <br>
+: ,.3ox:o,;.7.:., , :.;,;,33C7J:v,7.:.:.v:n;xoOnS;o.7.:.:.:.:.:.:.:.:.:.:.,<br>
+...,.3;i,;.:.7.7.:,v,7.;,i7m,:.7,7.: ,.7,;:J:i:xJmi2:v.7.:.:.:.:.:.:.7.7.;.<br>
+7 ;.:,v,;.;,v.:.i;o.7.7.;,2;, :.;,7.:.:.;,i,7.:,GUb3m;J,v,7.7.7.7.:.:.7.7,7<br>
+.,,;,i:J:v,, ,:U;7.:.;,7,iiU.7,;,7.:.:.;,i:i,7,JUOnbUGix7J,;,;,;.7.:.7.7.7 <br>
+o.;,o;9;o.:.J;n.,.7.;,;,v:2iSvU;n:;,i:o:J7n;x;9nm7n7SUM3S;27J:o:n:i,7.;,;,,<br>
+7v7n:v,;.v:J,:.7.7.7.;.;:J7x3EOEm1vx;xv9oCSBMB1Ovn:J,JJZ2CJSvx7J;9JCi2:i,v.<br>
+U:J:J:n:v.: :.7.:.7.7,;,;,J7m9RCBOg3O2OUBgBgBMR2m;xvx;J;G2CJmiU;2;xiSiU7n:;<br>
+7;7U7:.7.:.7.:.:.:.7.;,;.7:2i19QmEGECBgBO9,,.o;SnCnO21n2;12CJmomiU;x;2;x;U:<br>
+n:Sov.;.:.,.:.:.:.7.;,;,7.i;3vmUMmBgB1J         ,,3;m9E29vG3CJmJmoSoSv9;xi9<br>
+;nJ2.;.:.,.:.:.:.:.7,;,;,,.n:o79JggZ       . . , . . ,,S2CJCnmJmJmoSJCJmoS;<br>
+U;m.:.: ,.:.:.:.:.7.;,;,;.,oU;9ngU7   . . . . , ,., , . ::mnmJmJmJCnmomJ1nU<br>
+i9::.: , :.:.:.:.:.:.7.;., SgEmG:. . , . . . , , :.:., , . vimJSomJmJCJmJOJ<br>
+G7:.: , :.:., ,.,.: :.7., . Bi:   . , , . . , , :.7.7.: , . ..2JmoSimJmJmJS<br>
+J:.:., ,.:.,., , ,., ,.: , .   . , , , . . , . ,.7.7.7.:.: , . :;13mJmJmom;<br>
+v 7., :.:.: , , , , , , , , . , , , , , , , . . ,.v,;,;.7.:., , ..23OJmJmJU<br>
+.  . . . . . . . .     .     . . . . . .         . ;,;,;.:., , .   ..J;3;x:<br>
   </h6>
-
