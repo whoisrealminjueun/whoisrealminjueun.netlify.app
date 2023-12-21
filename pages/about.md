@@ -34,7 +34,8 @@ permalink: /about
   <br>
   <br>
 
-  {% raw %}
-<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLxDSSBGwpNfTqSQsZV2RG9XXdzM-8WMKE&si=v_u9jmGRDIGJlPRn" frameborder="0" allowfullscreen></iframe>
+ {% raw %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxDSSBGwpNfTqSQsZV2RG9XXdzM-8WMKE" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
+
 
