@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /about
+---
+
 <style>
   .header-info h6 {
     font-size: 8px; 
