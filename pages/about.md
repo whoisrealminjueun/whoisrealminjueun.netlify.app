@@ -38,6 +38,8 @@ permalink: /about
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?list=PLxDSSBGwpNfTqSQsZV2RG9XXdzM-8WMKE" frameborder="0" allowfullscreen></iframe>
 </div>
 {% endraw %}
+<br>
+내 플레이리스트다. 제일 좋다고 생각하는 노래는 아니고.. 그냥 투메만 넣어놨다. 인스타로 디엠보내주면 안투메노래도 알려줌 (주로 앰뒤언트)
 
 <br>
 <br>
