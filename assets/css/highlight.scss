@@ -10,21 +10,6 @@
 @charset "utf-8";
 
 .highlight {
-  color: #fff !important; /* 텍스트 색상을 흰색으로 설정 */
-  background-color: #000 !important; /* 배경 색상을 검정색으로 설정 */
-
-  table {
-    td {
-      padding: 5px;
-    }
-
-    pre {
-      margin: 0;
-    }
-  }
-
-}
-
   table{
     td {
       padding: 5px; 
