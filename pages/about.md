@@ -30,4 +30,11 @@ permalink: /about
 
 추가로, 전에 그 멋진 홈페이지는 관리의 불친절함과 내 블로그에 시각적- 쾌감을 주는것이 과연 내가 원하는것인가? 라는 배부른 고민으로 말미암아 내 외장하드의 뒷편으로 넣어두엇다. 그리고 cms를 써서 편하게 살고싶다. (사실 그 페이지에도 넣을순 있는데 아예 깃허브로 옮겼다.) 삘받으면 다시 디자인을 넣거나 더 이쁜 웹사이트를 만들수도 있다. 혹시라도 방문하고싶으면 
   <a href="https://whoisrealminjueun-old.netlify.app/" style="color: blue; text-decoration: underline;">예전 웹사이트(클릭)</a>
-  를 방문하라
+  를 방문하라.<br>
+  <br>
+  <br>
+
+  {% raw %}
+<iframe width="560" height="315" src="https://youtube.com/playlist?list=PLxDSSBGwpNfTqSQsZV2RG9XXdzM-8WMKE&si=v_u9jmGRDIGJlPRn" frameborder="0" allowfullscreen></iframe>
+{% endraw %}
+
