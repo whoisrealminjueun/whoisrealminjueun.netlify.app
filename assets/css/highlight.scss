@@ -10,6 +10,22 @@
 @charset "utf-8";
 
 .highlight {
+  color: #fff; /* Set text color to white */
+  background-color: #000; /* Set background color to black */
+
+  table {
+    td {
+      padding: 5px;
+    }
+
+    pre {
+      margin: 0;
+    }
+  }
+
+  /* ... (rest of your existing styles) ... */
+}
+
   table{
     td {
       padding: 5px; 
