@@ -34,7 +34,7 @@ permalink: /about
   <a href="https://whoisrealminjueun-old.netlify.app/" style="color: blue; text-decoration: underline;">예전 웹사이트(클릭)</a>
   를 방문하라
 
-  <p style=display:inline, line-height: 0><small>        
+  <p style=display:inline line-height: 0 font-size: 3px;><small>        
 S7n,;.,.:.;,;:i,i,;,i,v,v,;,7.;,7.7.;,;,;,;,;,;,;,i,i,i,v,v,o:;,v,;,7.v:J:o<br>
 3n;J,: . . , ,.:.:.:.:., : : , , , , , , , ,., ,.:.:.:.:.:.:.:.:., ,.7,v:n7<br>
 MnG212S;i.:.:.:.7,7.7.;,;,7,;,;.7.7.;,7.;.7,;.;,;,;.;,;,;,v,;.7.7.;,n;UJbSg<br>
