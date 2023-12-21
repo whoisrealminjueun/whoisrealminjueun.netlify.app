@@ -6,4 +6,4 @@ last_modified_at: 2023-06-04
 categories: [daytoday!]
 ---
 
-![image](whoisrealminjueun.netlify.app/assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg)
+![image](assets/images/64a6c8320a0cbe2424095108_KakaoTalk_20230706_225640324.jpg)
