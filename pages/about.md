@@ -6,15 +6,22 @@ permalink: /about
 
 <style>
   .header-info h6 {
-    font-size: 6px; 
+    font-size: 8px; 
     white-space: nowrap;
+    cursor: pointer; 
   }
 
   
   @media only screen and (max-width: 760px) {
     .header-info h6 {
-      font-size: 1px; 
+      font-size: 6px; 
     }
+
+  @media only screen and (max-width: 320px) {
+    .header-info h6 {
+      font-size: 4px;
+    }
+  }
 </style>
 <div class=
 
@@ -28,55 +35,8 @@ permalink: /about
   <a href="https://whoisrealminjueun-old.netlify.app/" style="color: blue; text-decoration: underline;">예전 웹사이트(클릭)</a>
   를 방문하라
 
-  <h6 id="homeLink">                                                                                              
-u7vii:..::::iiriiiriiiiiiiiii:::::i:::::i:i:iii:iiiiiiiiririririririiiiii::i7r7r<br>
-27v7i:..   ....:.:::.........:.......................:.:.:.:.:::::.......::iir77<br>
-b2KI52U7r::...::::::::::i:i:iii:::::::i:i:::::i:i:iii:i:i:iiiiiii::::::ir7YYU5bP<br>
-S5KqXqKSUu7i::...::::::::::i:::i:::::::i:iii:::::::i:::::iiiii:::::::rrJj25PEDZd<br>
-PSbPdPbbPXXjvri.......:..:::::::::::::i:::i:::::::::::::::::::::::irLJ2XPPZZgdZq<br>
-1uXPqbqdZbPEEbUvi::.:..:.....::::::::i::::::::::::::::::::::.:.:ivY2SPPZDMZgZgDd<br>
-vrju25qPEEZDgDgdq1Li:.:::.:.:.::::::i:i:i::::::::::.:::::::.::rvuSPbMMRMQgZPbqPI<br>
-rir77vLJuKPDDMgMgQEP17:::ii::::::::iii:i:i::::::::.:::::::::rIKEZRRQMRDgdbXK5S5u<br>
-r:rrrirr77vY2XDMQRQRDdX7r77ri:i:::i:i:i:ii::i:::::::::i:iiv2ggggRRRDDPSU5UuJYvs7<br>
-rirrrrrrrrrrr77jIbgRggMgU1777r7r:::iii:rii:::i:i:i:irjvL1bERMMgQDdK511JsYLvYvYv7<br>
-7i7r7r7r777r777r77jIPPEEgP5s27Lrriiii:i:i:iiiiriii7vqqIPgRQMREP51YsYYLsLYvYvLvYr<br>
-7r77r7r777r7777L777Yv115SPPP5Uvv77rr:::::ii7rrirr7sqDgEgDDPKU1sYvYLYvYLLvvvLvvv7<br>
-Li777r777r7r7rv7vvLLYvJJuuUu21uJJ77rrrriiirr7rrrvsSPEPqXS1UJJLYLYLLvL7v7v7v7LvYr<br>
-rirrrrr7r7r7777v7vvvvssuj1uU1212sY7vvL7r7vr7777Yu5SXI5U2u1JusJLLvL7777777v7LvLv7<br>
-Lir::::.....::iirr77vvss1uIU2U2UUJsvvrrrv7v7LLu155X25I2u1JJLJvv7rii:::::::::iiri<br>
-gDggEbX2Jvii:.     ..:i7vJjUU52211LsvL7YLsvJsuUSIX252I11JY7r:... ..:i7vujXqdbDZZ<br>
-BRBBBBBQBBBBBBBgPY7:.. ..:i7ju22I1uYsvYYJJsY1uI5KSS2IuYi:....:vUPZBBBQBQBBBBBBBQ<br>
-U1SPPdZMRRggDMgQBBBBQQZq1YriiY1522jJvLLsLsvsJ22KXX517rr7LSDBBBQBBBBMdDqMQQggZZdK<br>
-i.rr77vvsu2jJvvrXBBBBBBQBBBBgIYuI1uYv77rrr7LujSKK5uJqgBBBBBBBBBBBQBI5IIU5U2uuYJr<br>
-:.:::::iiirrr77rrPBBBBBBBBBBQBg7Yu77ri:::::rvJUXuLZBZIBBQBQBBBBBQbvvvv77rririrri<br>
-r:rii::.:...:::::.iYKPggQggZ1sSirrrii::...:ir7Ys77PJvirJ22X1uv7ri:::i:i:iir7vvJ7<br>
-i:r77LvYv7ir::.::........::iii:r::::::....::irr7i7::irii..::...::ir7vYJU1522uus7<br>
-. ....:i7YI5PXKSXI5121IISSX2uri:::i:::.....:rrriiirvj2XqPPPPPPbPdddPbqqSIJJv7rr:<br>
-. ....    .:rs1XSqSPKKI5usrr:::::::i::.....iirii:::iirrvvsJUuU12uuYL77riii:i:::.<br>
-r.i::::....   ..::i:i::::..::::::::::.....::irririi:::::::::::i::::::::.:.:::.:.<br>
-riii:iii::...........:...:::::iiii::::.....:irrrrrii::::::.:.:.........:.:.:.::.<br>
-srv7rrriiii...........::::i:iii:i::::......:rr7r7r7ii::::::...........:...:..::.<br>
-Uj2UJjLYr7ri::.........::i:i:i:iii:i::....:rr7r7r7ri::::::.:.:.:.....:.....:.:..<br>
-::s1UJuJusvri::::.:.::::::iiii7rrrrii:....ii77v7vrri:::::::::.:.:.:.:.......:::.<br>
-. .isuJuLv77ri::::....::::ir7jus77rr::.:::ir7vLsYsL7i:::::.:.:.:::...:::.:.:.::.<br>
-: ..rJYrrii::::.:.....::iiiis5U77iiii::.::ir77Lv125jLrr::.:::.:.:::.:::::.:.:.:.<br>
-:....rv7ii::.::::..iii::irirv1i:::::::...::ii7rrrrv1uUL7ii::::::::::::.:::::::::<br>
-:.::::rii:iirii..:v7::::i:iij7..::i::::.::iiiii::.rIPSS1s7rii:::i::::.::::::::r:<br>
-:.ii:iiriiii...iYsi:.::i::iru7:::i::::::::iirrii::rKX55PSUvv7riiii:i:::::::::::.<br>
-r:iii7JjYi:.:rsvi.::i:i:iirrsJs7v7riiiiirr7rrrvr7712Y7LjqPKjsvvrrrrr7ri:::::i:i.<br>
-rir7rrir::i77r:.:::::i:::rr7rjXDZDq1vv7vvLYjJqEggZSj77rrruqq22jjYL777Jj1Yvrriii:<br>
-srv77r77rii:..i::.::::i:iiir7vIPgDgDPUI1I2SPBQBBQdIJL7vvvr7UK2IujYsvv7LJ21Jv7rr:<br>
-vir7vrir:..:::.:.::::::i:i:r7LJXPZdggdKPdQBBQqJ2KqXK1juUuUvv1K22UUjuYsvL7vvvvL7i<br>
-7iYjv::::.:.:.:.::::::iii:::7vs1SPEbgRBBBP7      ..iLUSXPPKsLUK221UuUJuJsLYvLvuL<br>
-v7Jjii::...:...:.:::::ii:i:.i7r7L2SdgBQ7             ..:iUPP1JUSU2uUuUjUuUuUsJsY<br>
-j727:::...:.:.:.:.::::iiiii.i7rr7L1Pgr          ......    .r1IIu2u21Uu2u1u21IU1v<br>
-vvu:::.......:.:...::::iii:..qU1IPd1.   ..     .....::....   :L5Uuu1uU12I211u5Ij<br>
-1Yr.:.....:.:.....:.:.::::.  1BMP7.   .....   ......:::::....  .rJ2J1J1uU121U1Iu<br>
-Xr.:.....:.:...........:::.. .X:   ....... . ......:::::::.....  .is11J1j1j1uUuj<br>
-2.:.:.............:.....:....     ............. . ..:::::::::.......ijS2UU2uUuUY<br>
-i.::.................................................iiiiii:::::.... .i15IUUuUuJ<br>
-: .   .                                               :ii:i::......     .i77LvLr<br>
+  <h6>                                                                                            
+.   ( ๑╹ω╹)<br>
+＿(__つ/￣￣￣/＿<br>
   </h6>
-
-<h4>내 얼굴이다. 필요하면 복사해서 쓰기 바란다.</h4>
 
