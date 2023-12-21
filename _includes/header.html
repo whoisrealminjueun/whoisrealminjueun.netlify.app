@@ -1,3 +1,17 @@
+<style>
+  .header-info h6 {
+    font-size: 16px; /* 기본 크기 설정 */
+    white-space: nowrap; /* 줄바꿈 제거 */
+  }
+
+  @media only screen and (max-width: 600px) {
+    /* 모바일 화면 크기에 따른 스타일 조절 */
+    .header-info h6 {
+      font-size: 12px; /* 모바일에서 더 작은 크기로 조절 */
+    }
+  }
+</style>
+
 <div class="header-info">
   <a href="https://whoisrealminjueun.netlify.app/" class="header-info-name">{{ site.title }}</a>
   <h6>                                                                                              
@@ -23,8 +37,9 @@
       qBBB.7BBB gBBB RBBQ vBBB JBBB UBBB gBBB QBBB BBBB BBBBBBQBQ BBBP BBBS BBBS BBBI BQMBBBg.      <br>
       PBBB.7BQB RBBB MBBB LBBB JBBB IQBB.MBBB BBBQ BBBB BQBQi::i. BBBb.QBBq BBBS BBBX vr7:          <br>
       ZBBB.uBBB QBQB BBBB.uBBB XBBQ PBBBBBBBB QBBBQBBBB BBBBBBBBQ BBBBQBBBE BBBE BBBK.BBBB          <br>
-      gBBB:UBQB BBBQ BBQB.5BBB.qBQB.EBBBBQB1  BBBBBBBBB BBBBBBBBB BBBBBBBBg BBBZ.BBBb.BQBB                                                                                                    
-<h6>
+      gBBB:UBQB BBBQ BBQB.5BBB.qBQB.EBBBBQB1  BBBBBBBBB BBBBBBBBB BBBBBBBBg BBBZ.BBBb.BQBB      
+    
+  </h6>
   <span class="header-info-desc">{{ site.description }}</span>
 </div>
 <nav class="header-nav">
