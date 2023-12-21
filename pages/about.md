@@ -8,7 +8,6 @@ permalink: /about
   .header-info h6 {
     font-size: 8px; 
     white-space: nowrap;
-    cursor: pointer; 
   }
 
   
