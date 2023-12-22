@@ -5,11 +5,23 @@ permalink: /about
 ---
 
 <style>
-  .header-info h6 {
+    .header-info h6 {
     font-size: 8px; 
     white-space: nowrap;
     cursor: pointer; 
   }
+
+  
+  @media only screen and (max-width: 760px) {
+    .header-info h6 {
+      font-size: 6px; 
+    }
+
+  @media only screen and (max-width: 320px) {
+    .header-info h6 {
+      font-size: 4px;
+    }
+ 
     pre {
       font-size: 12px;
       text-align: center;
