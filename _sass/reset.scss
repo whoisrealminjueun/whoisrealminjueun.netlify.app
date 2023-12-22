@@ -41,8 +41,10 @@ h2 {
 }
 
 hr {
+  border-width:1px 0 0 0;
+  border-style:dashed;
+  border-color:white;
   margin: 10px;
-  border: 1px solid #eee;
 }
 
 img {
