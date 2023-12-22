@@ -43,6 +43,8 @@ disqus: # disqus account
 mathjax: true # Mathematics
 mermaid: true # Diagrams
 
+futrue: true
+
 permalink: /:year/:month/:day/:title
 
 sass:
