@@ -11,13 +11,13 @@ permalink: /about
     cursor: pointer; 
   }
     pre {
-      font-size: 4px;
+      font-size: 12px;
     }
 
     /* 미디어 쿼리 */
     @media screen and (max-width: 600px) {
       pre {
-        font-size: 2px;
+        font-size: 5px;
       }
     }
 </style>
