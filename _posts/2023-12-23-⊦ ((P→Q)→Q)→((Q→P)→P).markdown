@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "⊦ ((P→Q)→Q)→((Q→P)→P)"
+date:   2023-12-23
+last_modified_at: 2023-12-23
+categories: ["PHILOSOPHY"]
+---
+
+ffff
