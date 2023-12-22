@@ -11,16 +11,15 @@ permalink: /about
     cursor: pointer; 
   }
     pre {
-      font-size: 12px; /* 기본 글자 크기 */
-      text-align: center; /* 가운데 정렬 */
-      margin: 0 auto; /* 좌우 중앙 정렬 */
-      white-space: pre-wrap; /* 줄 바꿈 처리 */
+      font-size: 12px;
+      text-align: center;
+      margin: 0 auto;
+      white-space: pre-wrap;
     }
 
-    /* 미디어 쿼리 */
-    @media screen and (max-width: 320px) {
+    @media screen and (max-width: 600px) {
       pre {
-        font-size: 6px; /* 작은 화면일 때 글자 크기 조절 */
+        font-size: 6px;
       }
     }
 </style>
