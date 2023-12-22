@@ -43,6 +43,37 @@ permalink: /about
 내 플레이리스트다. 제일 좋다고 생각하는 노래는 아니고.. 그냥 투메만 넣어놨다. 인스타로 디엠보내주면 안투메노래도 알려줌 (주로 앰뒤언트)
 심심하면 들어보자.
 
+<pre>
+urr....:iiiiiiiiiii:::::i:::i:i:iiiiriririii:::iri
+XLv7:.   ..:.........................:::......:r7s
+bSEbd5Ji:.....::::i:::::i:i:::::i:::i::...:iL1Kbgb
+UIbZEMEZXs:.......:::::i:i::::::::::::..:7uPEMRRgd
+riLJIXZRBQMKJ:..:...::i:i::::::.......rjPDQQQgZqP1
+i:iiir7s2ZQBQg17ri:::::iii::::::.::i7KMBQQDbIIssvr
+7:rrririrrL2dZMEXJYri:i:::::i::iv5XEBQRdXjJvv7v7vr
+7ir7r7r7r7r77JUXKX1s7rii::i7rrrJdMZgqSJv7v77777v7r
+r:i:i:i:ir77v7JJ112Uu7777r7r7715q5IjJLY77rriiiiir:
+P22u7r::.....:i7YUU21jvv7LvYY2SKU2JLr:....:ir7Lu11
+QQBBBBBBQDPUv::::rY25usLjsjJ25K51vr::ivIERBBBBBBBB
+ii7Yj5SK2UDBBBQBQg512UYvr7rYuqXSIKQBBBBBBBPX5K52Jv
+:.:::.:::::jMBBBBQgu77r::..iLUsIDJDQBMgq2riii:iiri
+:.:rr7r7ii:.::i77vii::::...:rririrrririiirvJJUu1sr
+. . ..:7U5qSXIIjYr:.:::....:ri::i7sJ22XSXIIuY7rii.
+i.::..   ..::::....::i::...:irii::.:::::.:.:...:..
+U7vrrii........:::i::::....:rr7ri::.............:.
+7v52Jjvr::.....::iiriri:...r7v7r::::............:.
+. r11Lvri::...::ir11vri:..:rvYuJ7::.....:...:...:.
+. .r7i::::.::::ii7ui:i::..:ir7rLUU7i::.:::.:.:::::
+:.::iii:::rri::::7v..::...::i:.:KqqUvii::::...:::.
+i:irv7::irr::::iivssL7i::ir77YvJ1vvSKIL7rrrrii:::.
+vi7r7ii:i::.::::irLPQgbju1XDBBBE1r7rsSS1jvvv1JYrr:
+7rLri:...:.::::i:iv2PgMQBBMqri7Yj25q1JIS1UJsvsLvvr
+L7j::.....:.::ii::rrs5QBP:      ..:r55IX522u1J1JJv
+ssi:...:.:..:iii:.vuuP2.       ...   .r2IIU2u21U2s
+Xr:....::.:.::::: 7Qj:  ... ....:::..  .ivIU2u2u2j
+s....:.:.......:....  ..........:i:i::.. .:YI511jJ
+:                                .:::::..   .:vvLr
+</pre>
 <br>
 <br>
 <br>
