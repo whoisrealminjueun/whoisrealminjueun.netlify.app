@@ -31,7 +31,7 @@ permalink: /about
 
     @media screen and (max-width: 600px) {
       pre {
-        font-size: 6px;
+        font-size: 4px;
       }
     }
 </style>
@@ -118,6 +118,8 @@ X:.::.........................:......     ........... . .........::::::::::::...
 : .                                                                .iiii:i::::........     :rv7vvLv7
 </pre>
 내 얼굴이다. 필요하면 복사해가길 바란다. (실눈뜨고보면 ㄹㅇ 따봉날리는 나임)
+<br><a href="https://whoisrealminjueun.netlify.app/2023/06/04/" style="color: blue; text-decoration: underline;">원본사진(클릭)</a>
+
 <br>
 <br>
 <br>
