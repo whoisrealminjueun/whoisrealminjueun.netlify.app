@@ -23,7 +23,7 @@ permalink: /about
     }
  
     pre {
-      font-size: 12px;
+      font-size: 6px;
       text-align: center;
       margin: 0 auto;
       white-space: pre-wrap;
@@ -31,7 +31,7 @@ permalink: /about
 
     @media screen and (max-width: 600px) {
       pre {
-        font-size: 4px;
+        font-size: 2px;
       }
     }
 </style>
