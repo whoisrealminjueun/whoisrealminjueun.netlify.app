@@ -92,7 +92,7 @@ JLY::...:::.:.::iiii.:s7sUdU.       .....   .rUS5121212u2UIL
 1Y::...:.:::.::::i::..gQP1:  ...   ....:::..  .ivIUUu2UU1U2U
 q::...:.:.:...:.:::.. 7Y.   ... . .....::::.... .:7UI111Uu2s
 7.:....:..............   ..............:iiii::.... :vSII1Uus
-: . .                                   .ii::::...    :rLvYr                                                              .iiii:i::::........     :rv7vvLv7
+: . .                                   .ii::::...    :rLvYr
 </pre>
 내 얼굴이다. 필요하면 복사해가길 바란다. (실눈뜨고보면 ㄹㅇ 따봉날리는 나임)
 <br><a href="https://whoisrealminjueun.netlify.app/2023/06/04/" style="color: blue; text-decoration: underline;">원본사진(클릭)</a>
