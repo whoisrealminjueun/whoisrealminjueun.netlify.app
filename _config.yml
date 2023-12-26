@@ -25,7 +25,7 @@ timezone: Asia/Seoul
 
 analytics:   # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
-paginate: 10
+paginate: 15
 paginate_path: "/page:num/"
 
 comments: false # enable comments
