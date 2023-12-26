@@ -58,64 +58,41 @@ permalink: /about
 <br>
 <br>
 <pre>
-17vrr::::.::::iiiiiiriiiiiiiiiriiiii::i:i:i:::::i::i::iiiii:iiiiiiiiririririririrrriiiiirii:i:rrrr7r
-I7v7rr:... ........:::::.:.:.:.....................................:.:.:::.:::::::.:.:.....::iirirrr
-qUXII11L7ii::.::::::i:i:i:i:i:i:i:::ii::::::::::i:i:::::i:i:::i:i:iii:i:iiiiiiiiiii:i:i:i:irvvLY1IqS
-q55SIX5X2uL7ii::.::::::::::::::i:i:::i:::::::::iii:::i:::::i:::i:i:::i:iiriiiiii:::::::iir7sYu1XqdbE
-K2PqPXqSXIIUj7rii::..::::::::.::::::::ii::::::::i:::r:::::::::::i:::::iiiii:i:::::::iirvJu22KqdEgdEK
-qXPPPbbEPEKXSSuvrr::.:.:.:.:::.::::::::i:::::i:i:::::i:::::::::::::::::i:i:i:::::::r7YJ2IqKPbDdEbdbq
-IsqqPKPKPPDPPPbPP2Yri::::::.:::...:.:::::::::ii:i:i:::::::::::::::::::::i:::::::rrLu2IXqbbZDggMgMggP
-Y7jUIKKbPbPdqEEDDgPKuYrr::::::::.:.::::::::::i:i:i:i::::::::::::.::::i::::::::i7v2IXKZZggRMRggdEPdPX
-7ivvYLJuIIPdDZgDDEgZZPqusr::::::::::::::::::iii:iii:i:i::::::::..:::::::::::i71IKPDZRMRgMggddqPKqXK2
-7ir7r7rv7sY15qbDDMggMQggPqu7:iiiri:i:::::::iiiiiii:i:::::::::::::::::::::irJPDEggMgQgRDgdEPq5SI5I21J
-r:rrrrrr7r777vsjSPggQMRgMdZbXr7v7rriiii:::iii:iiiiiii:i:i:::::::::::iiiivJPgMbgZRgRDZdPSI2S1UJJvLvs7
-rirrrrrrrrr7rrr77vvUSdDMggEgDZuuY7r7i7rr:i:iii:iirii:::i:i:i:i:i:rLJ7LjqqZDgZgMQgDqq5IuUJussYsLYLYL7
-7i7r7r7r7r7777777r7rvvuSbbZEEZgP5vvJ77Lriiiiiii:iii:i:i:iiiiiirr71qJUqEZQQRMRgZK5u1sjsssJLsYJYYvLvY7
-7r77r777r7r777777vvv7v7vYUIqXPPdbbXSuvv7rriiii:i:::i:riririirr7j5DddEgDRgDbbX5jJvYYsLJLsLsvYvLvvvsL7
-Yiv77777777r7r7777vvLvYLYvJJU155KSK22JsvL77riii:iiiirr77rrrr77u5PEgdEdEPX22jJYsLsssLsLsYYvL7YvLvLvYr
-vr7v777777r777r7r7777vvYYsLjJuj1u1jIU1j1YL77r7r7rrirrrr7rrrvvu1KqbKKSX22u1JjsJLsLYvYvL77777v7LvLvsLv
-7i777r7r77777777777r77v7Lvssuj1u212uU1U1uvv7vvLv7rL77r7r77LsU2SSKII22U2uUj1sjLYvL7v7777777v7vvYvYLs7
-r:ii:::::::i:iiirrr77v7v77vssuuUUIU2121Iu1Lsvv77r77v7v7LvJJ22KSSIS55UU11JJYJLsLLvv77rrrririririrrrri
-P2S11Lvrr::.... . ..::iirr7vssujU12U52I1UuJYYvv7vvL7vvYYJjIU5SXIX55U2jUJusL77rr::.......::iirr77vLus
-QRQBBBQBQQMgPK1uvr::.    ..::irYsUjUU5UI12jsLYLYvssJLJsuj22S5X5S2S1U11Yvri..   ..:iv1KbgMQQBQBBBBBBB
-QDQQQQBBBBBBBBBBBBBBBDP1Li:.....:rLjUu2I51IJJLYvsLJYJssJUU55XSX25UIs7i.. .:iL5ZRBBBBBBBBBBBQBBBBBBBM
-1j5KXPPEZMgRDZdEbZDDQBBBBBBBgb5u7r:ivUU5U21uYLvYvLLYLYYuUIIqSK551Liii7JqDBBBBBBBBBBBPddP5RRRggDDddPX
-r:7777LvYL11522sY777XBBQBBBBBBBBBBBP1vU2IU1sYvL7777r77ssU1XKqSXJL1EQBBBBBBBBBQBQQQBMI5K5XSKIS5511uuv
-:.iiiiirr7r7rv7L7vvvLRBBBBBBBBBBBBBBQZ7J11LL77rr:i:iir7YsU5qI1vqQQPBQBBBBBBBBBBBBBE1sUjJYJLY7v77rrri
-i.i:::::::i:iiiirrriirIQBBBQBQBBBBBgPBE:vvvrrii::::.::r7LYU1srZBBSvsQQBBBBBQBQQd5vrr7rrrrriiiirr7rLr
-rirrrrii::::.:.:.:::::.:iLL1UKXK5X1rr7irrriiii::.:...iirr7YLr7sriri::rii77rr::::.::::i:iirr77LYJsJJ7
-r:rr77LYJYL7riri:::::.:.........::iiriiri:i::::.....::iirr7rr7r:irrrri::::::::::iirrvvJJUU52512juYYi
-. .....:i7v12XSXII1211uusJJUjIIXSXIIvrii:::i::::.....::rrrrrirrvLUIKqbPPKPqPqPqbPbPbPPPPSK2Ussvv77r:
-. ...     ..::71XPPbbbbddPEPEPq5UL7i::::::i::::.......irrrrii:iirrr7Ys1USSKSqSqSXI511Jsvv7ririiii:i.
-:.:.........   ..:irr77v7v77rrii:::::::::i::::.......::rrriiii:::i:iiiirirrrrrr7rriiii:::::::::::::.
-r:rii:ii::....... ....:.:::.:.:.::::::::i:i::::.....::iirrririi:i::::::::::::::::.:.:::::.:::::::::.
-7irrii:iiii:.............::::::::i:::iii::::::.......::irrrrrrrrii::::::::::::.:.......:.:::.:.:.::.
-Yrvr7rrii:iii:..............::::i:iirii:i::::::.......iirr7r7r7riii::::::...:.......:...:.:.:.:.::i.
-UYJussvv77rrri::.:.....:...:.::i:iii:i:i:i:i::::....:i:rr777r7rrii:i::::.:...:.:.:.:.:.......:.:.::.
-775IIuujuYYvvrr::.......:.:.::::i:iiiiriiiiii::.....:irr77v7777ii::::::::.:::.:.:.:.:.:...:.:.:::::.
-..i7s1vsLusjv7rrii::::.:.::::::iirirr777r7rrii::...::ir77vvL77rrii::::::::.:.:.:.:.:...:.:.:.:.::::.
-:...isjJusL77r7riii:::......::::iir7u11Lv7rri:i:::::ii7r7vsLsYjv7ii::::::::.:.:::::.:.:::::.:.:.:::.
-:....rJs77irii:i::.:.......::::iiiiLIIv7rrii:i::.:.::iir7LvYj5U2sL7rii::::::::.:::::.:::.:.:.:.:.::.
-:.:..:rvvrrii::.:.:::...:ii:i:iirr7Luv::i:ii:::....:::ii777rv7YJUjuvvrr::::::::::::.:::::::::::::.:.
-:.:::::7rrii:i:iirii:.:7rr::::ii:iiLui.::::i:i::.:.::iiir7ii::ivU5IIus77iri::::::::::::::::::::::iri
-i.i:::::iii:iirii...:ru7:.::::i:iirjL.::::i:i::::.::iiiirii:::i7dPKSX2UL7rrrrii:iii:::::::::::::::i:
-:.ii:iirrrrrii:. .:v1s:..::iiiiiii7ULi:iirii::::::::irirr7rrirrYK51ISqX5JYvvrrii:iiiii:i:::::::::::.
-r:iiii7L1jsri...rs1v:.::::i:i:iirr7Y1sY7v77rriiiirrr7r77v77r77s22Lv7YjqPqUusYvv7rrrr7r7ii:::::iii:i.
-7irrr7rrii:..i7svi..:i:::::i:::ir77vv5XdPPS2Lv7v7vvvvJYJJKPDEZP5Yv77r771XP5IuuJJYY77rvY1Jsv7iiiiiri:
-viv77rrirrir7ri...:i::::::::::iirr77vjPEMDMZP2UjuJ1uUuSPQQQQMZXjJvv7v77rv1qS5UUJJLYvv7vv1152uv7rrir:
-Lr77r77777ri...::i::.::::::::i:iiir7vuUPPEbDgDSXSS5K5bQBBBBBgbS2jsLJsJJYr7JXIIU21uJsvLvLvLvssJvL77ri
-vir7Lvi:i:..:::::..:::::::::iiiii:r7LsUSPbEdDDDqqqDQBBQI7::iYuIIKujJUjuUILvJK521U1UjUssYYvYvv7vvYvLi
-7rvJJ7:i::.:::.:.::::::::::i:iii:::v7YY22PPdbDgQQBBEr.         .:vUXSPqPSIJLJXSIu2u21Uu1jjYsYYLLLj1J
-LrsYsrii:::...:.:.:.:.::::::i:iii:.rvrvvuUXKbZQBBr          . .   ..::7IDP5JsuSII121U1Uj112u1u1ssY1Y
-Y7sUv:::::...:.:.:.:.:.::::iii:i::.irrr77Ys2SQgr           .......      .72K2uu21U12121UuujU12U21uJv
-sr1s:.:::.......:::.:.::::iiiiiii:.ij7v7YY2XEL    ..      . .....::.....  .:LI5uuj1UU1215U2u1j21522L
-LvUr.::......:.:::...:.::::::i:i:.  5Z25SEd2:    .....   ........:.:::.....  :72Uus1jUu212UIUUj11SI1
-uYv.:::.......:.:.:.:.:.:..:::::... iBBDKr.   .......   .........::::::......  .rLUuJsuJ1uUu21I1U151
-5L:.::.......................:::...  Pj.     ....... . . ........:::::::.:...... .:vuUJjJuJUjUuUu21u
-X:.::.........................:......     ........... . .........::::::::::::...... :vIU1j1uUjUjUuUL
-7.::................................ . ................... . ....::i:::i::::::........:vUX2U121Uj11J
-:.:::.............................................................:iriiiiii:i::::.......:7I52u21Uu2L
-: .                                                                .iiii:i::::........     :rv7vvLv7
+1r7:...:iiriiiiiiirii:::::::::i:iiiiiiiirirriiririiii:::irri
+5vv7::   ....:.:.:.....................:.:.:::::::.....:ir7L
+b5PKP2Jri...::::::::i:ii::::iiiii:::i:i:i:iiiii::.::irsj5qDd
+XKbEbEPP2si:.....:.::::i:::i:i:i:::::::::::i::.:.:rLuKqZDMZd
+uYKKbbgZggZILi:...:...::::i:i:i::::::::.:::::..:7JXPDgQRgZgP
+ri7vYUSEgQQQRDSs::::::.::::i:i::::::::.:.:...isqbMQBRQZbKK51
+r:ririr7Y1PDQBBDEs77rii:::iiiii:::::::::::irUZQQBQMdq25jJYYr
+rirrrrrrirr7sXdggQbI7Lr7:::i:ii::iii:iis11PQQQMgP51jYYvL7L77
+Li7r777r7r7777LjSXbPPIJ77ii:::::rrrir7IZgDQgEX5sYvYvLvLvLvYr
+7i77777777r77vvLvuj2UI1uY7rrrrirr7r7v1qdPq52uJvLvL7v77rv7vv7
+7:i::::::iiir7v7Ys1u212U1vv7vrv777vYI5XII11JJYY77rrii:iiiiri
+dqXX1Yri::.. ...:rvuu2UI1uYL7LLLvJJI5XII11Yvi:.....irvvjUSXX
+BQBBBBBBBBBMPj7:...:i7U25UuYsYjsJj25q5IJvi:.::vUdgBBBBBBBBBB
+77j22qPZPPKKRBQBBBgd5uY222jsvLvLLuUqqSjj2PDBBBBBBBQbqbZdPqS1
+:.::i:irrr7ivQBQBBBBBBQjJsvri:::rvUSU1BZgBBQBBBBBPYvL77rrrr:
+r:rri:::...:..rJUKKqXJs7irii:...:77JrYur:7YJYvri:::i:ii77LY7
+:.::r7YsuYv77ri:iirr7ri:::::....:irriii7JLvr7777sjI5XXK2UsYi
+.  .  .:iYUqPbPPKKUj7r:::i::....:rri::ir7sj25XSK5SuuL7rrii:.
+r.:::..   ..:::::::.:.::i:::....:iriri:::::::::::::.:.:.:.:.
+Lrriii::..........:::iii::::....:ir7r7ii::::.............::.
+IJIjYv77r::......:i:i:i:i:i::...ir777rr::::.:.............:.
+::YIuUuJ7r::...:.::iir7vr7ri...:i7vLvvi:::::::...:.:::...::.
+. .7UY7rrii::....:i:iLXJvrr::.::rrLLU2uri::.:...:::.:.:...:.
+:..:77ii::::..:i:::risL::::i:..::i77r7J2svi:::.:::::::::::::
+:.::iii:ii:.i7r:::::iJi..::::..:iii:.:jbPS17rii:::::::::::i:
+::ii7L7i:.:v7i.::i:iru7rir:::::iirrriru2JIPPjL7riiiri::::::.
+7i7r77r:irr:::::::ii772qEP27v7LvJubZgP27rrv2PIUss777ssYrrii.
+vr77r7ii:::::::::iiii7sPgQgd5SSdQBBBBg5jvYv7YKIIuJvL7Jj1L7r:
+7is7i::.:::.:::::ii:i7suqdDMQQBg2:. :ivj5XPKJJK52uUJjLLvYvJ7
+v71r::.:.:.:.::::iii.rr7YIPBBI.        .::r5K51K2I1Uu1j1uuJY
+JLY::...:::.:.::iiii.:s7sUdU.       .....   .rUS5121212u2UIL
+1Y::...:.:::.::::i::..gQP1:  ...   ....:::..  .ivIUUu2UU1U2U
+q::...:.:.:...:.:::.. 7Y.   ... . .....::::.... .:7UI111Uu2s
+7.:....:..............   ..............:iiii::.... :vSII1Uus
+: . .                                   .ii::::...    :rLvYr                                                              .iiii:i::::........     :rv7vvLv7
 </pre>
 내 얼굴이다. 필요하면 복사해가길 바란다. (실눈뜨고보면 ㄹㅇ 따봉날리는 나임)
 <br><a href="https://whoisrealminjueun.netlify.app/2023/06/04/" style="color: blue; text-decoration: underline;">원본사진(클릭)</a>
