@@ -7,7 +7,8 @@ categories: ["3dmodeling"]
 ---
 
 블랜더의 쉐이더 노드를 파이썬으로 변환시켜주는 애드온이다. 추가로 개발이 필요한데, geonode와 블랜더 애드온 상의 option, utility를 만져야할듯 하다.
-
+<pre>
+<code>
 ```python
 import bpy
 import os
@@ -325,3 +326,5 @@ class MaterialToPythonPanel(bpy.types.Panel):
         row.operator_context = 'INVOKE_DEFAULT'
         row.menu("NODE_MT_npt_mat_selection", text="Materials")
 ```
+<code>
+<pre>
