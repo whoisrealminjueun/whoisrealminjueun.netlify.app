@@ -3,7 +3,7 @@ layout: post
 title:  "미시마유키로_신파시즘론 번역(원문X, 영문번역)"
 date:   2023-07-06
 last_modified_at: 2023-07-06
-categories: ["정치", "문학"]
+categories: ["IDEOLOGY", "문학"]
 ---
 
 이글은민주은본인의정치적성향과관련이없음을밝힙니다.
