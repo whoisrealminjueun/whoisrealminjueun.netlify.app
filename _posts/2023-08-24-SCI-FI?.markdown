@@ -3,7 +3,7 @@ layout: post
 title:  "SCI-FI?"
 date:   2023-08-24
 last_modified_at: 2023-08-24
-categories: [정치]
+categories: ["IDEOLOGY", "PHILOSOPHY"]
 ---
 
 사회 통제에 있어서, 법학보다 중요한 것은 문화이다. 그것은 사회가 법률로써 강제하지 않아도 대중이 스스로의 무의식에서의 판단으로 사회의 주류 가치에 맞는행동을 하도록 유도한다. 그 중 하나인 SF (Science Fiction)은 최근 전세계의 문화, 예술계에서 빠르게 입지를 넓혀나가고 있다.
