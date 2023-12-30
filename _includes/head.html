@@ -48,11 +48,5 @@ gBBB:UBQB BBBQ BBQB.5BBB.qBQB.EBBBBQB1B  BBBBBBBBB BBBBBBBBB BBBBBBBBg BBBZ.BBBb
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-{% if site.analytics %}{% include analytics.html %}{% endif %}
-{% if site.mathjax %}
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async ></script>
-{% endif %}
-{% if site.mermaid %}
 <script src="{{ site.baseurl }}/assets/script/jekyllpaper.js" async ></script>
-<script src="https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js" onload="javascript:loadMermaid();" async></script>
 {% endif %}
