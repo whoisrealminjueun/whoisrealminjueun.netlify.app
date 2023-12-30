@@ -3,7 +3,7 @@ layout: post
 title:  "유물론"
 date:   2023-07-20
 last_modified_at: 2023-07-20
-categories: [정치]
+categories: [IDEOLOGY]
 ---
 
 이제부터, 나는 내가 싫어하는것들에 대해 명확한 이유와 근거를 들어 내 생각을 정리할 것이다. 볼 사람은 보길 바란다.
